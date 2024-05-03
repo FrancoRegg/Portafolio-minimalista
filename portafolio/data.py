@@ -1,6 +1,5 @@
 import json
 
-
 class Media:
     def __init__(self, email, cv, github, likedin):
         self.email = email
@@ -71,7 +70,8 @@ class Data:
         self.extras = [Extra(**info) for info in extras]
 
 
-with open("assets/data/data.json") as file:
+with open("assets/data/data.json", encoding="utf-8") as file:
     json_data = json.load(file)
+
 
 data = Data(**json_data)
