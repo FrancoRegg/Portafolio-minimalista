@@ -87,6 +87,10 @@
                     "name": "Bootstrap"
                 },
                 {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
                     "icon": "devicon-flask-plain",
                     "name": "Flask"
                 },
@@ -101,18 +105,41 @@
         },
         {
             "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
+            "title": "StarWars Blog",
+            "subtitle": "",
+            "description": "Esta aplicación te muestra personajes, planetas, naves y demás información de la mítica serie. Puedes encontrar información detallada en cada una de las busquedas",
             "technologies": [
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
+                    "icon": "devicon-react-plain",
+                    "name": "React"
+                },
+                {
+                    "icon": "devicon-bootstrap-plain",
+                    "name": "Bootstrap"
                 }
             ],
             "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+            "url": "",
+            "github": "https://github.com/FrancoRegg/StarWars.git"
+        },
+        {
+            "icon": "bug-off",
+            "title": "Agenda de Contactos",
+            "subtitle": "",
+            "description": "Esta aplicación te permite guardar, modificar, eliminar contactos.",
+            "technologies": [
+                {
+                    "icon": "devicon-react-plain",
+                    "name": "React"
+                },
+                {
+                    "icon": "devicon-bootstrap-plain",
+                    "name": "Bootstrap"
+                }
+            ],
+            "image": "/project_2.jpg",
+            "url": "",
+            "github": "https://github.com/FrancoRegg/Contact-List.git"
         }
     ],
     "training": [
