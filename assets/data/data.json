@@ -74,22 +74,30 @@
     "projects": [
         {
             "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
+            "title": "Pa' Lante",
+            "subtitle": "",
+            "description": "Esta aplicación conecta personas con profesionales. Está orientada al apoyo emocional, cuenta con herramientas y acompañamiento especializado.",
             "technologies": [
                 {
-                    "icon": "devicon-python-plain",
-                    "name": "Python"
+                    "icon": "devicon-react-plain",
+                    "name": "React"
                 },
                 {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
+                    "icon": "devicon-bootstrap-plain",
+                    "name": "Bootstrap"
+                },
+                {
+                    "icon": "devicon-flask-plain",
+                    "name": "Flask"
+                },
+                {
+                    "icon": "devicon-postgresql-plain",
+                    "name": "PostgreSQL"
                 }
             ],
-            "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
+            "image": "",
+            "url": "",
+            "github": "https://github.com/FrancoRegg/Pa-lante.git"
         },
         {
             "icon": "bug-off",
